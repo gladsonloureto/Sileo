@@ -1,0 +1,23 @@
+  
+/* 
+  Categories.strings
+  Sileo
+
+  Created by AppleBetas on 2018-12-28.
+  Brazilian Portuguese translation created by gladsonloureto in 2020-08-30
+  Copyright © 2018 CoolStar. All rights reserved.
+ 
+ BASE (English) LOCALISATIONS
+*/
+
+"No_Category" = "(Sem Categoria)";
+"Tweaks" = "Ajustes";
+"Themes" = "Temas";
+"Utilities" = "Utilitários";
+"Applications" = "Aplicações";
+"Addons" = "Addons";
+"Games" = "Jogos";
+"Developer" = "Desenvolvedor";
+"Data_Storage" = "Armazenamento de dados";
+"Terminal_Support" = "Suporte Terminal"; 
+"Text_Editors" = "Editores de Texto";
